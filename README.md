@@ -7,7 +7,12 @@
 
 Things i code with
 python
-
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Python", "R","SQL","JAVA"],
+    askMeAbout: ["Machine Learning","Statistics","Probability"],
+     funFact: "There are two ways to write error-free programs; only the third one works"
+};
 
 - 🔭 I’m currently working on Machine Learning Algorithm
 - 🌱 I’m currently learning ML and Data Science
