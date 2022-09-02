@@ -3,7 +3,7 @@
 <b>Welcome to my page!</b>
 <b>I'm Sourav, Machine Learning anthusieast and a master student from  Pune, India.</b>
 
-![namaste-sheldon](https://user-images.githubusercontent.com/74098297/188073889-83f1901e-4d5a-47ec-8c77-d16b23ffd13f.gif)
+![hello](https://user-images.githubusercontent.com/74098297/188074473-8225813e-3d54-4fb8-95b3-385c650c4052.gif)
 
 
 - 🔭 I’m currently working on Machine Learning Algorithm
